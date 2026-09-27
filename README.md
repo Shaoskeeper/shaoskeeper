@@ -148,7 +148,7 @@ Carga horária: 2.040 horas
 
 ### 📚 Aprendizado contínuo
 
-Atualmente aprofundando conhecimentos em:
+Atualmente desenvolvendo conhecimentos em:
 
 - Inteligência Artificial
 - Python
@@ -166,7 +166,11 @@ Atualmente aprofundando conhecimentos em:
 <p align="center">
 
 <a href="https://github.com/shaoskeeper">
-<img src="https://img.shields.io/badge/GitHub-shaoskeeper-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Shaoskeeper-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/helio-carvalho-roberto/">
+<img src="https://img.shields.io/badge/LinkedIn-Hélio_Carvalho_Roberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:heliocarvalho.r@outlook.com">
@@ -174,8 +178,6 @@ Atualmente aprofundando conhecimentos em:
 </a>
 
 </p>
-
-<div align="center">
 
 ### 🚀 Aprender • Construir • Evoluir
 
